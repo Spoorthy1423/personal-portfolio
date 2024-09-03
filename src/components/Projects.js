@@ -29,7 +29,7 @@ export const Projects = () => {
     },
     {
       title: "Spoorthy Madasu",
-      description: "Freelancer & Content Creator",
+      description: "Open Source Contributor & Content Creator",
       imgUrl: projImg4,
     },
     {
